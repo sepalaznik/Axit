@@ -121,7 +121,7 @@ font-size: 15px;
 font-weight: 700;
 color: rgb(255, 255,255);
 text-align: center;
-border-size: content-box;
+box-sizing: content-box;
 }
 .get-start {
 width: 360px;
@@ -347,7 +347,7 @@ font-size: 15px;
 font-weight: 700;
 color: rgb(255, 255, 255);
 text-align: center;
-border-size: content-box;
+box-sizing: content-box;
 }
 
 .section-process .process-blocks {
@@ -572,7 +572,7 @@ font-size: 15px;
 font-weight: 700;
 color: rgb(255, 255,255);
 text-align: center;
-border-size: content-box;
+box-sizing: content-box;
 }
 
 .section-contact .block-fields {
@@ -634,7 +634,7 @@ font-size: 15px;
 font-weight: 700;
 color: rgb(255, 255, 255);
 text-align: center;
-border-size: content-box;
+box-sizing: content-box;
 }
 
 footer{
